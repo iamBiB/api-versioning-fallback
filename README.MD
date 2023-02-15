@@ -1,4 +1,5 @@
-# Lumen Api Versioning<a href="https://github.com/iambib/api-versioning-fallback/releases/latest"><img src="https://img.shields.io/github/v/release/iambib/api-versioning-fallback.svg?style=flat-square" alt="" data-canonical-src="https://img.shields.io/github/v/release/iambib/api-versioning-fallback.svg?style=flat-square" style="max-width: 100%;"></a>
+<a href="https://github.com/iambib/api-versioning-fallback/releases/latest"><img src="https://img.shields.io/github/v/release/iambib/api-versioning-fallback.svg?style=flat-square" alt="" data-canonical-src="https://img.shields.io/github/v/release/iambib/api-versioning-fallback.svg?style=flat-square" style="max-width: 100%;"></a>
+# Lumen Api Versioning
 A package that allows you to have a fallback version for your Lumen api
 ## Description
 This package allows you to have fallback versions for your api. Basically if you have v1 in place and you want to update your app to v2 but you don't have time to update all methods, this pack allows you to take a break.
