@@ -50,5 +50,6 @@ return [
 	$app->configure('api-versioning');
 ```
 #Support
-Hey dude! If you like it .. well <g-emoji class="g-emoji" alias="beers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f37b.png"><img class="emoji" alt="beers" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f37b.png"></g-emoji> or a <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"><img class="emoji" alt="coffee" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"></g-emoji> would be nice :D
+Hey dude! If you like it .. well <g-emoji class="g-emoji" alias="beers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f37b.png"><img class="emoji" alt="beers" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f37b.png"></g-emoji> or a <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"><img class="emoji" alt="coffee" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"></g-emoji> would be nice :D<br />
+
 <a href="https://www.buymeacoffee.com/fhc0C7A" target="_blank" rel="nofollow"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="coffee" data-canonical-src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" style="max-width: 100%;"></a>
