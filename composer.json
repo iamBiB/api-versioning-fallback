@@ -1,0 +1,26 @@
+{
+    "name": "iambib/api-version-fallback",
+    "description": "A package that allows you to have a fallback version of your api",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "lumen",
+        "laravel",
+        "api",
+        "versioning",
+    ],
+    "homepage": "https://github.com/iambib/",
+    "require": {
+        "php": ">= 8.0.2",
+        "laravel/lumen-framework": "^9.0"
+    },
+    "require-dev": {
+    },
+    "suggest": {},
+    "autoload": {
+        "psr-4": {
+            "iAmBiB\\ApiVersionFallback\\": "src/"
+        }
+    },
+    "config": {
+    }
+}
