@@ -33,6 +33,10 @@ return [
     'api_fallbacks' => [
         'v3', 'v2', 'v1',
     ],
+    /*
+     * URL segment number of your api version
+     */
+    'segment_no' => 0,
 ];
 ```
 `bootstrap/app.php`
